@@ -1,4 +1,16 @@
-### Hi there 👋
+<h3 align="center">
+  Hi, I'm Benedetto Simone!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+
+<p align="center" >
+<a href="https://github.com/BenedettoSimone/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=BenedettoSimone&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
 
 <!--
 **BenedettoSimone/BenedettoSimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
