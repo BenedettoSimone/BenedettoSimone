@@ -1,15 +1,14 @@
-<h3 align="center">
+<h3 align=left">
   Hi, I'm Benedetto Simone!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<br>
 
-<p align="center" >
-<a href="https://github.com/BenedettoSimone/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=BenedettoSimone&&show_icons=true&theme=radical"/>
-  </a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BenedettoSimone&count_private=true&show_icons=true&include_all_commits=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenedettoSimone&hide=TeX&layout=compact)
 
-</p>
+
 
 
 <!--
