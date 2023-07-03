@@ -15,6 +15,8 @@
 - 📚 I'm currently a second-year master's student in Computer Science - curriculum Internet of Things at the University of Salerno in Italy. 
 - 🔎 I'm doing a research activity at the University of Salerno based on Visual Speech Recognition. See the project here 👉 [Research Project](https://github.com/BenedettoSimone/researchProject) .
 
+![Snake animation](https://github.com/BenedettoSimone/BenedettoSimone/blob/output/github-contribution-grid-snake.svg)
+
 <!--# Some Statistics About Me.
 
 <p align="center">
